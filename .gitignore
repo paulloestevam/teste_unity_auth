@@ -1,0 +1,31 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Bb]in/
+
+# Visual Studio/JetBrains Rider folders
+.vscode/
+.idea/
+*.sln
+
+# Unity metadata
+*.csproj
+*.pidb
+*.user
+*.unityproj
+*.booproj
+*.suo
+*.tmp
+*.userprefs
+
+# Package directories
+Packages/manifest.json.meta
+Packages/packages-lock.json.meta
+
+# OS-specific files
+.DS_Store
+Thumbs.db
